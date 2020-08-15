@@ -138,6 +138,7 @@
             this.Price_TB.Name = "Price_TB";
             this.Price_TB.Size = new System.Drawing.Size(151, 26);
             this.Price_TB.TabIndex = 11;
+            this.Price_TB.Text = "Price";
             // 
             // Price
             // 
