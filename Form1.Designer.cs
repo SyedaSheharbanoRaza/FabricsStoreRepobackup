@@ -157,6 +157,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(208, 26);
             this.textBox1.TabIndex = 9;
+            this.textBox1.Text = "Meter";
             // 
             // Meter
             // 
@@ -195,6 +196,7 @@
             this.Brand_name_TB.Name = "Brand_name_TB";
             this.Brand_name_TB.Size = new System.Drawing.Size(208, 26);
             this.Brand_name_TB.TabIndex = 5;
+            this.Brand_name_TB.Text = "Brand Name";
             // 
             // Brand_Name
             // 
